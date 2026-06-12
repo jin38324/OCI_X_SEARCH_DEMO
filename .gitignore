@@ -1,0 +1,28 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+.mypy_cache/
+
+# Virtual environments
+.venv
+
+# Local secrets and environment overrides
+.env
+.env.*
+!.env.example
+
+# Frontend dependencies and build output
+node_modules/
+.next/
+out/
+
+# Demo runtime artifacts
+*_response.txt
+
+*/LOG.txt
+
+.mypy_cache/
