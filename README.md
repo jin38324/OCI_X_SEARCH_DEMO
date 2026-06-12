@@ -43,8 +43,6 @@ It also provides practical controls over search scope: include specific handles,
 
 [![Watch the video](docs/video/screenshot.jpg)](docs/video/x_search_on_OCI_demo.mp4)
 
-![screenshot](docs/video/screenshot.jpg)
-
 ## Before You Start
 
 你需要一个可用的 OCI Generative AI 环境，并准备可调用 Responses API 的 endpoint 和 API key。
