@@ -41,7 +41,9 @@ It also provides practical controls over search scope: include specific handles,
 
 ## Demo Video
 
-<video src="docs/video/x_search_on_OCI_demo.mp4" controls width="100%"></video>
+[![Watch the video](docs/video/screenshot.jpg)](docs/video/x_search_on_OCI_demo.mp4)
+
+![screenshot](docs/video/screenshot.jpg)
 
 ## Before You Start
 
