@@ -41,7 +41,7 @@ It also provides practical controls over search scope: include specific handles,
 
 ## Demo Video
 
-https://github.com/jin38324/OCI_X_SEARCH_DEMO/raw/refs/heads/master/docs/video/x_search_on_OCI_demo.mp4
+<video src="docs/video/x_search_on_OCI_demo.mp4" controls width="100%"></video>
 
 ## Before You Start
 
